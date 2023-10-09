@@ -2,7 +2,7 @@
 
 **👨‍💻Estudante de programação rumo ao Full-Stack👨‍💻**
 
-  Olá, eu sou um estudante autodidata de **17** anos **B2** em inglês com diversos objetivos traçados em torno da programação, atualmente não tenho nenhum projeto muito relevante ou interessante, apenas estudos teóricos, testes e criação de bancos de dados no **MYSQL** a fim de estudos e prática.
+  Olá, eu sou um estudante autodidata de **17** anos **B2** em inglês com diversos objetivos traçados em torno da programação. Atualmente não tenho nenhum projeto muito relevante ou interessante, apenas estudos teóricos, testes e criação de bancos de dados no **MYSQL** a fim de estudos e prática.
 
 
 <hr>
