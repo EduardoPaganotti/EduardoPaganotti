@@ -31,7 +31,7 @@
   
 •📖 Estudar assuntos váriados muitas vezes relacionado com programação, desenvolvimento web e hardware;
   
-•🖥️ Jogar diversos jogos de estilos variados, como roguelike, fps, rpg, etc;
+•🖥️ Jogar diversos jogos de estilos variados, como roguelike, fps, rpg, etc.
 
 </p>
 
