@@ -40,6 +40,8 @@ Esta imagem é apenas o começo do desenvolvimento, pois esta no figma, apenas c
 
 Esse é para ser o resultado final do projeto, quando ele ficar pronto em código irei disponibilizar o arquivo aqui!
 
+###### Para deixar claro, todas as informações e marcas utilizadas tem sim direitos autorais e são apenas para "demarcar" onde ficarão os elementos do site e esse site em geral é apenas um teste das coisas que realmente aprendi até agora.
+
 
 <hr>
 
