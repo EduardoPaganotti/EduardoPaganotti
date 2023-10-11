@@ -24,6 +24,25 @@
 
 <hr>
 
+**👩🏻‍💻Projetos👩🏻‍💻**
+
+  Bom, como eu disse anteriormente ainda não tenho projetos completos ou algo assim, porém, atualmente estou desenvolvendo um que pode ser interessante de mostrar aqui.
+
+•*NBA Store*
+###### Uma página estática de produtos relacionados inteiramente a basquete, inclusive leva o nome da maior associação de basquete do mundo!
+![image](https://github.com/EduardoPaganotti/EduardoPaganotti/assets/147409319/8068013f-99a1-42e0-a97d-aeb71dc99558)
+
+Esta imagem é apenas o começo do desenvolvimento, pois esta no figma, apenas como um norte do que eu vou fazer, mas ja desenvolvi o design de outras áreas importantes também.
+
+![image](https://github.com/EduardoPaganotti/EduardoPaganotti/assets/147409319/8d5542a0-cdb7-4375-8dbb-770e20fa7ec1)
+
+![image](https://github.com/EduardoPaganotti/EduardoPaganotti/assets/147409319/f40b868e-1b9d-4b64-9786-07d6f72ff09e)
+
+Esse é para ser o resultado final do projeto, quando ele ficar pronto em código irei disponibilizar o arquivo aqui!
+
+
+<hr>
+
 **🏀 *Hobbies* 🏀**
 
 <p>
