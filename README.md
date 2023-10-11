@@ -28,7 +28,7 @@
 
   Bom, como eu disse anteriormente ainda não tenho projetos completos ou algo assim, porém, atualmente estou desenvolvendo um que pode ser interessante de mostrar aqui.
 
-•*NBA StoreTM*
+•*NBA Store™*
 ###### Uma página estática de produtos relacionados inteiramente a basquete, inclusive leva o nome da maior associação de basquete do mundo!
 ![image](https://github.com/EduardoPaganotti/EduardoPaganotti/assets/147409319/8068013f-99a1-42e0-a97d-aeb71dc99558)
 
